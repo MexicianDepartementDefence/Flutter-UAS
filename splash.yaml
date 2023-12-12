@@ -1,0 +1,17 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/IKEA Screen.png
+  scale: 0.1
+  fill: true
+  fit: BoxFit.contain
+  aligment: Alignment.bottomCenter
+  android: true
+  web: false
+  
+  android_12:
+   color: "#FFFFFF"
+   image: assets/IKEA Screen.png
+   scale: 0.1
+   fill: true
+   fit: BoxFit.contain
+   aligment: Alignment.bottomCenter
